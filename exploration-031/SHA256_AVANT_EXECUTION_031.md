@@ -1,0 +1,34 @@
+# Exploration 031 — Manifeste SHA-256 avant exécution
+
+Horodatage déclaré dans le manifeste original : **2026-11-17T03:07:12Z**.
+
+Les 16 empreintes ci-dessous ont été recalculées à partir de l'archive native reçue et concordent avec le manifeste original (16/16). L'archive ZIP passe le contrôle CRC.
+
+```text
+6f509a82598c1a7de02a036dbbfe38c7136839c18666d512882cff8e6176d94f  PREDICTIONS_031.md
+271a0cd9cd63b1772aa1834ce0705d7eb2b280292765db42d64ac72d22977eeb  modele031.py
+bcffa16536b359cd95e4a6357a89000927d052b8157505296d92e26caf04d626  exploration031_officiel.py
+d383e01654c8a537ecf81f82514866a6dfb7b74f22409682a622f19c5db90f10  verdicts_031.py
+dc3e153ac1c3588a35613334b6a8d8f0390f9e009cadf988ec8abe0740257cff  test_verdicts_031.py
+eda9f048bccd47b1bf2c205cd87837403b30cb7bd6e32fa3006905c0d5065f55  verification_031.py
+1ef05ca3b55ed4d711fadcb259689a8624f910555eac6653049983e07a39e04e  tests_mutation_031.py
+2aa82cd705de598752d1f543670935a2f2f3f32fbc048d3678d074bd60edd0ad  verification_calibration_031.py
+25db837f62f1ed707856c84b2aed37b7d24f6fbe4e891ae626ce51d81698bde8  test_groupes_V5_031.py
+b9bd29c52f11a54d4643c7ab519261b1af2b310bcea83f91cd51d666cfb0bf64  controle_configuration_definitive_031.py
+cd77856a6ea0ab768e588b4cb9373a88be8a141f216e3e0ec1fe6c5e06c0e51c  resultats_verification_031.txt
+9358012fc1920af33e23e7f81c56b677e18a6fd3738c0a407ede45a185ec5d8a  resultats_mutations_031.txt
+151551f3cc873700870665bff16f428a69eae26cd77cffae6ac475fad3f8b3c1  resultats_calibration_031.txt
+7bd53766557d0c89e01fdc3b475d9989c2ac2210cc8b04d7a2556cdd2628b1c8  resultats_test_groupes_031.txt
+09b4044ee6b406c01fc34f569f915f8229a6a8519fe163f2dc49944d96ab5a8e  resultats_test_verdicts_031.txt
+66263c5c7b7244d49a5680efea5c4df3e5c76a04b2a11417191fd2354aa0d2d8  resultats_controle_configuration_031.txt
+```
+
+SHA-256 du manifeste original `SHA256_AVANT_EXECUTION_031.txt` :
+
+`eba976e830f90ed7f6d458be808f2e9c19834c627df06ad98995c8d313340a74`
+
+SHA-256 de l'archive ZIP reçue :
+
+`3153ef9d6a2bae1858831fd6ea51d90600989a6b7b7f0de4e0c38e8e5208cd21`
+
+La publication établit un horodatage externe pour ces empreintes, sans prouver à elle seule l'absence de calculs privés antérieurs.
