@@ -1,0 +1,30 @@
+# Exploration 030 — Manifeste SHA-256 avant exécution
+
+Horodatage déclaré dans le manifeste original : **2026-11-17T02:05:11Z**.
+
+Les douze empreintes ci-dessous ont été recalculées à partir de l'archive native reçue et concordent avec le manifeste original (12/12). Le contrôle CRC de l'archive est conforme.
+
+```text
+20a57912e676db7a723b6d8053521dea314785500cb8e9b4cc1b3af1c87bcf4c  PREDICTIONS_030.md
+58ccc8ed4848d23276bc9f85c4177c5aea158408007158f565530b84d833654d  modele030.py
+cc956e05f310ee30855cd3d2b3f90e00dea3ca0156ed93afd6d26e97c8e5072d  exploration030_officiel.py
+99667dd8af8adcb4017ddeff7ab910cc1119f30f9f36df3118b493c84ad2f2d4  verdicts_030.py
+b19a945e9d8789bcd1d3a86372905f13c0ecc0b8fa6ee9796b1a304d6b320bb3  verification_dp_030.py
+b73c64aa2b97ab11d903fa9b14bb6036595a4a9b6e8f9652de4f2cfd422e37d6  tests_mutation_030.py
+04ece965f98c6e90801fdd57f66e0ee32aaf9eaf89410b8fa4920b675e99eadd  controle_configuration_definitive_030.py
+f89f4d8817197415ad6450dae359d562c1070824f932c1c184b01aacc345634b  test_verdicts_U5_030.py
+3d4346bcd4bd75d7ff343855c6961dd3fd7924fa3cbdc199b59ab697b3f70181  resultats_verification_dp_030.txt
+b7ea0bc5dab1d62f91d4d52750b0ce3c47018196d8afc330f590e724f5f8b68f  resultats_mutations_030.txt
+681a7a0aa973e19d974e036b8fa7a22d125632a5269e2c3e7db04319cce33b35  resultats_controle_configuration_030.txt
+0319e69b8e3db9fbc3d8f47698efebc5bbcd9f04f0bd1258eaa2af098a4985f3  resultats_test_U5_030.txt
+```
+
+Empreinte SHA-256 du manifeste original `SHA256_AVANT_EXECUTION_030.txt` :
+
+`86e2768d2078278ff015effd7528ef026b969f00ddb3ba310e39f0e089b5d2ce`
+
+Empreinte SHA-256 de l'archive ZIP reçue :
+
+`925c602d44d23b468e0565cc2571058448ef7de94ef1367b568a9bb713d84fa7`
+
+La publication permet de dater publiquement ces empreintes ; elle ne prouve pas à elle seule qu'aucune exécution privée n'a eu lieu auparavant.
