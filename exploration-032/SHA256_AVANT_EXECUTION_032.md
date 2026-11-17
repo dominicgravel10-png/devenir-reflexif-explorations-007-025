@@ -1,0 +1,29 @@
+# Exploration 032 — Manifeste SHA-256 avant exécution
+
+Le manifeste ci-dessous a été vérifié contre les 13 fichiers natifs de l'archive préenregistrée. Les 13 empreintes concordent et le ZIP passe le contrôle CRC.
+
+```text
+e318ccda3870d8e6c813ba60bb3e04fbc780ef8755cb98f4e5f1cae6f19df9fd  PREDICTIONS_032.md
+da3432d0a4d02f2bb6ce6fae67bb19c93ed3460195eaf1e048679423eaf5be26  exploration032_officiel.py
+271a0cd9cd63b1772aa1834ce0705d7eb2b280292765db42d64ac72d22977eeb  modele031.py
+9c3d9c0b6c4ce5095a249fc8ce9124192c40a6f0952341bb39464af302cd554c  modele032.py
+994500a2f338155e7c88e1d2853f4ba8e72afe79ac1c144230168ba9168cc9ef  proprietes_regle_surprise_032.py
+b7eb620cf3e2d86bcb6adb8a87220326c366908ecbc653eb06e6e1eca26bd0c5  resultats_mutations_032.txt
+0d568a5b80db0511f7d4ea93e260b95810dafd78d8a33bf9d143247dacb0b5b4  resultats_proprietes_regle_032.txt
+487ae4b97015cf23f81a1b0cf19d1391f7627c5a8570a63b674389e6b09b6c01  resultats_test_verdicts_032.txt
+f85144234faecf0e1f9e08fb4361547a5f2fbe813900551d4ad7587437b8b3f3  resultats_verification_032.txt
+cd3a7b3d5f858cb0babe2a2f38f59277a7a15c4d2e01cbf2619318ffa7685811  test_verdicts_032.py
+e28e84475f3b807555a6a03714a3bca5810e6a4dadb07b6e9e4130d3bbec8b6f  tests_mutation_032.py
+22636fcfcc7b89d26ad88c166053444e9090b961e7f589e179a2ae5c68df31ee  verdicts_032.py
+1a4ee57863678d7bb10c494b9f743c2e55ef764706e0e06321aef974a3599bc9  verification_032.py
+```
+
+SHA-256 du manifeste original `SHA256_AVANT_EXECUTION_032.txt` :
+
+`c625ccbae54e8f8a3c9bcb2a59312280ab920913acb29d1b164638e77278b018`
+
+SHA-256 de l'archive reçue :
+
+`cb4a86c378cba74da0d973fe4d755425e60864833884da93237b2b46357605da`
+
+Ce commit horodate publiquement les empreintes ; il ne prouve pas à lui seul l'absence de calculs privés antérieurs.
